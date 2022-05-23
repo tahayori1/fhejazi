@@ -1,0 +1,41 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "آموزش زبان فرانسه Farideh Hejazi",
+    "description": "",
+    "home_page_url": "https://farideh-hejazi.ir",
+    "feed_url": "https://farideh-hejazi.ir/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Farideh Hejazi"
+    },
+    "items": [
+        {
+            "id": "https://farideh-hejazi.ir/frydh-hjzy-khyst/",
+            "url": "https://farideh-hejazi.ir/frydh-hjzy-khyst/",
+            "title": "فریده حجازی کیست؟",
+            "content_html": "<p><!-- wp:embed {\"url\":\"https://youtu.be/kcRUaS4hlrY\",\"type\":\"video\",\"providerNameSlug\":\"youtube\",\"responsive\":true,\"className\":\"wp-embed-aspect-16-9 wp-has-aspect-ratio\"} --></p>\n<figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\">\n<div class=\"wp-block-embed__wrapper\">\nhttps://youtu.be/kcRUaS4hlrY\n</div>\n</figure>\n<p>\n<!-- /wp:embed --></p>\n<p><!-- wp:embed {\"url\":\"https://www.instagram.com/p/CCu_HFdJ1fe/\"} --></p>\n<figure class=\"wp-block-embed\">\n<div class=\"wp-block-embed__wrapper\">\nhttps://www.instagram.com/p/CCu_HFdJ1fe/\n</div>\n</figure>\n<p>\n<!-- /wp:embed --></p>\n",
+            "author": {
+                "name": "Farideh Hejazi"
+            },
+            "tags": [
+            ],
+            "date_published": "۲۰۲۱-۰۵-۱۰T۱۴:۰۷:۵۹+۰۴:۳۰",
+            "date_modified": "۲۰۲۲-۰۵-۲۳T۱۱:۵۶:۵۱+۰۴:۳۰"
+        },
+        {
+            "id": "https://farideh-hejazi.ir/ashnyy-b-mwssh-zbn-prs-amwzn-shyrz/",
+            "url": "https://farideh-hejazi.ir/ashnyy-b-mwssh-zbn-prs-amwzn-shyrz/",
+            "title": "آشنایی با موسسه زبان پارسا آموزان شیراز",
+            "summary": "آکادمی زبان پارسا در سال 1380 با رویکرد ارتقا سطح علمی جامعه در زمینه زبانهای خارجی شروع به کار کرد و با سابقهای درخشان در برگزاری کلاسهای زبانهای متداول دنیا از قبیل انگلیسی، آلمانی، فرانسه، ترکی استانبولی، اسپانیایی، عربی و غیره با جدیدترین متد رایج&hellip;",
+            "content_html": "<p>آکادمی زبان پارسا در سال 1380 با رویکرد ارتقا سطح علمی جامعه در زمینه زبانهای خارجی شروع به کار کرد و با سابقهای درخشان در برگزاری کلاسهای زبانهای متداول دنیا از قبیل انگلیسی، آلمانی، فرانسه، ترکی استانبولی، اسپانیایی، عربی و غیره با جدیدترین متد رایج در هر زبان فعالیت کرده است.</p>\n<p>برگزار کننده دوره های تخصصی تربیت مدرس زبانهای مختلف و دورههای خاص:</p>\n<p>Teacher Training Course: English, German, and French</p>\n<p>How to Teach IELTS &amp; TOEFL</p>\n<p>ازافرادی که بعد از گذراندن هر کدام از این دورهها و کسب امتیازات لازم در جلسات تدریس آزمایشی پایان دوره مایل به تدریس در آکادمی زبان پارسا باشند دعوت به همکاری میشود.</p>\n\n<p>آدرس : حدفاصل چهاراه خلدبرین و بنفشه ، نبش کوچه ۷</p>\n<p><span style=\"line-height: 1.5;\">شماره تماس : ۳۲۳۳۱۸۲۹ یا ۳۲۳۵۷۶۴۱ </span></p>\n",
+            "image": "https://farideh-hejazi.ir/media/posts/35/IMG_20180617_202659_307.jpg",
+            "author": {
+                "name": "Farideh Hejazi"
+            },
+            "tags": [
+            ],
+            "date_published": "۲۰۱۸-۰۶-۱۷T۱۶:۰۳:۰۸+۰۴:۳۰",
+            "date_modified": "۲۰۲۲-۰۵-۲۳T۱۱:۵۶:۲۹+۰۴:۳۰"
+        }
+    ]
+}
