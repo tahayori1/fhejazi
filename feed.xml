@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>آموزش زبان فرانسه Farideh Hejazi</title>
+    <title>آموزش زبان فرانسه در شیراز با فریده حجازی</title>
     <link href="https://farideh-hejazi.ir/feed.xml" rel="self" />
     <link href="https://farideh-hejazi.ir" />
-    <updated>۲۰۲۲-۰۵-۲۳T۱۱:۵۶:۵۱+۰۴:۳۰</updated>
+    <updated>۲۰۲۲-۰۵-۲۳T۱۳:۳۷:۱۴+۰۴:۳۰</updated>
     <author>
         <name>Farideh Hejazi</name>
     </author>
@@ -14,30 +14,23 @@
         <author>
             <name>Farideh Hejazi</name>
         </author>
-        <link href="https://farideh-hejazi.ir/frydh-hjzy-khyst/"/>
-        <id>https://farideh-hejazi.ir/frydh-hjzy-khyst/</id>
+        <link href="https://farideh-hejazi.ir/who-is-farideh-hejazi/"/>
+        <id>https://farideh-hejazi.ir/who-is-farideh-hejazi/</id>
 
-        <updated>۲۰۲۲-۰۵-۲۳T۱۱:۵۶:۵۱+۰۴:۳۰</updated>
+        <updated>۲۰۲۲-۰۵-۲۳T۱۳:۳۷:۱۴+۰۴:۳۰</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                 <p><!-- wp:embed {"url":"https://youtu.be/kcRUaS4hlrY","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} --></p>
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
-<div class="wp-block-embed__wrapper">
-https://youtu.be/kcRUaS4hlrY
-</div>
+<div class="wp-block-embed__wrapper">https://youtu.be/kcRUaS4hlrY</div>
 </figure>
-<p>
-<!-- /wp:embed --></p>
+<p><!-- /wp:embed --></p>
 <p><!-- wp:embed {"url":"https://www.instagram.com/p/CCu_HFdJ1fe/"} --></p>
 <figure class="wp-block-embed">
-<div class="wp-block-embed__wrapper">
-https://www.instagram.com/p/CCu_HFdJ1fe/
-</div>
+<div class="wp-block-embed__wrapper">https://www.instagram.com/p/CCu_HFdJ1fe/</div>
 </figure>
-<p>
-<!-- /wp:embed --></p>
-
+<p><!-- /wp:embed --></p>
             ]]>
         </content>
     </entry>
