@@ -1,3 +1,3 @@
 User-agent: *
-Disallow:
+allow: *
 Sitemap: https://farideh-hejazi.ir/sitemap.xml
